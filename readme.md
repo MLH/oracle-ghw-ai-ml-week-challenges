@@ -15,9 +15,9 @@ Head over to the [Oracle signup page](https://hackp.ac/ghwaiml24-oracle-signup) 
 <br>
 A standard account will include up to $300 worth of credit for a new signup.  
 #### Resources:
-* In order to qualify for the $500 GHW-exclusive Oracle credit, you'll need to have provided the following during event check-in:
-  * The email address you plan on using for your Oracle account
-  * Opted into their GHW account list
+* In order to qualify for the $500 GHW-exclusive Oracle credit, you'll need to have done the following during event check-in:
+  * Provided the email address you plan on using for your Oracle account
+  * Opted into the GHW account list for exclusive access
 
 ## Registration Challenge 2
 ### Get Started with Autonomous Database
