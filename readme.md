@@ -26,7 +26,7 @@ Oracle Autonomous Database is a fully automated service that makes it easy for y
 The Autonmous Database (or ADB for short), uses machine learning to arning to automate database tuning, security, backups, updates, and other routine management tasks you would typically need to handle manually.
 <br>
 #### Resources:
-* [Learn more about ABDs and set up a free instance to get started](https://hackp.ac/ghwaiml24-oracle-adb-gettingstarted).
+* [Learn more about ADBs and set up a free instance to get started](https://hackp.ac/ghwaiml24-oracle-adb-gettingstarted).
 * [Check out the Oracle ADB Quickstart Guide and get set up in as little as 15 minutes](https://hackp.ac/ghwaiml24-oracle-adb-quickstartguide). 
 
 ## Registration Challenge 3 
