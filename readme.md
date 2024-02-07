@@ -14,6 +14,7 @@ If you have any questions about Oracle or their Global Hack Week challenges, hea
 Head over to the [Oracle signup page](https://hackp.ac/ghwaiml24-oracle-signup) to get set up with a new Oracle account. 
 <br>
 A standard account will include up to $300 worth of credit for a new signup.  
+#### Resources:
 * In order to qualify for the $500 GHW-exclusive Oracle credit, you'll need to have provided the following during event check-in:
   * The email address you plan on using for your Oracle account
   * Opted into their GHW account list
@@ -24,7 +25,7 @@ A standard account will include up to $300 worth of credit for a new signup.
 Oracle Autonomous Database is a fully automated service that makes it easy for you to develop and integrate a database into your project! 
 The Autonmous Database (or ADB for short), uses machine learning to arning to automate database tuning, security, backups, updates, and other routine management tasks you would typically need to handle manually.
 <br>
-### Resources:
+#### Resources:
 * [Learn more about ABDs and set up a free instance to get started](https://hackp.ac/ghwaiml24-oracle-adb-gettingstarted).
 * [Check out the Oracle ADB Quickstart Guide and get set up in as little as 15 minutes](https://hackp.ac/ghwaiml24-oracle-adb-quickstartguide). 
 
@@ -34,7 +35,7 @@ The Autonmous Database (or ADB for short), uses machine learning to arning to au
 Whether you are an advanced developer, or just trying out your first database, Oracle Database 23c Free is a great way to started! 
 If you have a familiarity with SQL and JSON objects, this is an ideal way for you to add another skill to your hacker toolbelt. 
 <br>
-### Resources: 
+#### Resources: 
 * [Learn more about Oracle Database 23c Free and set up a free instance to get started](https://hackp.ac/ghwaiml24-oracle-freedb-gettingstarted).
 * [Check out this digital learn-at-your-own-pace workshop to learn the ins and outs of Oracle Database 23c](https://hackp.ac/ghwaiml24-oracle-db23cworkshop)!
 * [If you're a Java user, you'll find this tutorial on setting up your Oracle / Java environment useful](https://hackp.ac/ghwaiml24-oracle-jsonjavatutorial).
