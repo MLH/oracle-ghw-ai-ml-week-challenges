@@ -23,7 +23,7 @@ A standard account will include up to $300 worth of credit for a new signup.
 ### Get Started with Autonomous Database
 
 Oracle Autonomous Database is a fully automated service that makes it easy for you to develop and integrate a database into your project! 
-The Autonmous Database (or ADB for short), uses machine learning to arning to automate database tuning, security, backups, updates, and other routine management tasks you would typically need to handle manually.
+The Autonmous Database (or ADB for short), uses machine learning to automate database tuning, security, backups, updates, and other routine management tasks you would typically need to handle manually.
 <br>
 #### Resources:
 * [Learn more about ADBs and set up a free instance to get started](https://hackp.ac/ghwaiml24-oracle-adb-gettingstarted).
