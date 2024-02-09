@@ -6,6 +6,18 @@ Hello hackers!  This week, we're going to learn how to leverage several of Oracl
 
 If you have any questions about Oracle or their Global Hack Week challenges, head to the [MLH Discord](https://discord.mlh.io/) and find the #ask-oracle channel!
 
+## Hacker Benefits
+
+In addition to providing free of cost resources to all hackers through GHW AI/ML, Oracle has also opened up a **Database Developer** or **Technical Product Manager Internship role** and will be considering qualified Global Hack Week attendees who apply. 
+
+### Additional details: 
+* Qualified candidates must complete _at least_ 1 of the 3 [Oracle Coding Challenges](https://mlh.github.io/oracle-ghw-ai-ml-week-challenges/#coding-challenges).
+* All prospective candidates must submit an application to the following [job description link](https://hackp.ac/ghwaiml24-oracle-internship).
+* While this internship is open to everyone, it is a US-based position.
+  * Candidates must submit their application with a US address.
+  * Visa / work permit sponsorship is not available for this position.
+  * Please see the job description linked above for additional details.  
+
 # Registration Challenges
 
 ## Registration Challenge 1 
