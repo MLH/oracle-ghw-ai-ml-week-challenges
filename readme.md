@@ -34,7 +34,7 @@ Create a [LiveLabs account](https://mlh.link/ghwaiml824-oracle-livelabs) so you 
 * This RAG [retrieval augmented generation] architecture is powered by Oracle AI Vector Search, a feature of Oracle Database 23ai.
 
 #### Documentation: 
-* [Follow this step by step LiveLab to complete this challenge](https://mlh.link/ghwaiml824-oracle-rag).
+* [Follow this step by step LiveLab to complete this challenge](https://mlh.link/ghwaiml824-oracle-rag)
 
 ## Coding Challenge 2 
 ### An introduction to Oracle AI Vector Search using SQL
