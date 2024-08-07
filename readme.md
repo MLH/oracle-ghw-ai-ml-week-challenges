@@ -67,6 +67,21 @@ Create a [LiveLabs account](https://mlh.link/ghwaiml824-oracle-livelabs) so you 
 #### Documentation:
 * [Follow this step by step LiveLab to complete this challenge](https://mlh.link/ghwaiml824-oracle-OML-python)
 
+## Coding Challenge 5 
+### MySQL : Machine Learning for Beginners using HeatWave AutoML
+#### Objectives: 
+* Discover how HeatWave’s built-in capabilities enable the development of machine learning models directly within the MySQL database.
+  * HeatWave ML simplifies machine learning for both novice users and experienced practitioners.
+  * By providing the data, HeatWave ML analyzes its characteristics and creates an optimized machine learning model for generating predictions and explanations.
+* In this challenge, participants will create and use a predictive machine learning model.
+* The process includes preparing data, training a model using the ML_TRAIN routine, and generating predictions and explanations with the ML_PREDICT_ and ML_EXPLAIN_ routines.
+* Finally, participants will assess the model's quality using the ML_SCORE routine and view model explanations to understand the workings of their model.
+  * All these routines are executed within the HeatWave MySQL Database.
+
+#### Documentation:
+* [Follow this step by step LiveLab to complete this challenge](https://mlh.link/ghwaiml824-oracle-heatwave-automl)
+* [Check out this additional documentation on HeatWave](https://mlh.link/ghwaiml824-oracle-heatwave)
+
 # Resources
 ## Hands-On Labs
 * [Oracle - Discover. Learn. Build.](https://mlh.link/ghwaiml824-oracle-HOL1)
