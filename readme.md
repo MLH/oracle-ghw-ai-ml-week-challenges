@@ -14,7 +14,7 @@ Hello hackers!  This week, we're going to learn how to leverage several of Oracl
 ## Registration Challenge 1 
 ### Sign up and download 23ai VirtualBox
 
-Head over to this [VirtualBox signup blog](https://mlh.link/ghwaiml824-oracle-virtualbox) to get set up with a new account. 
+Head over to the [VirtualBox signup page](https://mlh.link/ghwaiml824-oracle-virtualbox) to get set up with a new account. 
 <br>
 
 ## Registration Challenge 2
