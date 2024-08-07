@@ -1,4 +1,4 @@
-# Welcome to Oracle Database's GHW AI/ML Week Challenges!
+# Welcome to Oracle Database's GHW: AI/ML Week Challenges!
 
 Hello hackers!  This week, we're going to learn how to leverage several of Oracle's database technologies through a series of fun and interactive challenges! 
 
